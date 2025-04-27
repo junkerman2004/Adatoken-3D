@@ -1,0 +1,7 @@
+{
+    "prompt": "The related object is located at [-0.085,1.598,1.310]. Please output the 3D bounding box of the object and then describe the object. ",
+    "image": "/home/sdu01/zk_wp/llava/LLaVA-3D-Demo-Data/scannet/scannet/scene0382_01",
+    "output": [
+        ""
+    ]
+}
