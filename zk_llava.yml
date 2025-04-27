@@ -1,4 +1,4 @@
-name: zk_llava
+name: Adatoken_3D
 channels:
   - defaults
 dependencies:
