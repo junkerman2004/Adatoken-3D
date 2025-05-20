@@ -3,3 +3,5 @@ An adaptive spatial token optimization framework that dynamically prunes redunda
 <p align="center">
     <img src="Assets/2.png" width="100%"> <br>
 </p>
+
+# 🚝arxiv: http://arxiv.org/abs/2505.12782 
